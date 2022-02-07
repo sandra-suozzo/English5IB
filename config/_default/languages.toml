@@ -1,0 +1,11 @@
+[en]
+  title = "English 5IB"
+  languageName = "English"
+  weight = 1
+  contentdir = "content/en"
+
+[ko]
+  title = "English 5IB"
+  languageName = "한국어"
+  weight = 2
+  contentdir = "content/ko"
