@@ -13,6 +13,6 @@ landing:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: Go to the arguments
+      text: Go to the topics
       color: primary
 ---
