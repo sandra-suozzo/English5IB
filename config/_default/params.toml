@@ -27,7 +27,7 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/Davide-Pirovano/English5IB"
+github = "https://github.com/"
 
 # comment
 enableComment = false
