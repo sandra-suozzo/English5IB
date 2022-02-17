@@ -1,5 +1,5 @@
 ---
-title: "Will Robots take our jobs?"
+title: "Robots"
 draft: false
 weight: 1
 ---
@@ -8,5 +8,7 @@ weight: 1
 
 {{< youtube "https://www.youtube.com/embed/a-7Azih0D98" >}}
 
-#### What is unpredictable about recent technological changes?
-#### What kind of jobs will go?
+<br>
+
+##### What is unpredictable about recent technological changes?
+##### What kind of jobs will go?
