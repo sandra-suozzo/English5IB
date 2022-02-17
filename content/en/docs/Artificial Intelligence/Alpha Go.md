@@ -15,3 +15,9 @@ When IBM's Deep Blue supercomputer beat world chess champion Gerry Kasparov in 1
 AlphaGo, developed by a company called DeepMind, was designed to adopt an intuitive, human-like style of gameplay. It followed a technique called "deep learning", which imitates the workings of the human brain to allow a program to develop by teaching itself through trial and error. Rather than programming rules and strategies, DeepMind designer taught AlphaGo to play the game by feeding it data based on typical Go moves. Then AlphaGo played against itself, millions of times, learning from its mistakes and getting better each time. Deep learning changes the relationship humans have with their technological creations, It results in Al that displays surprising and unpredictable behaviour Lee Sedol described being stunned by one unconventional move from AlphaGo which no human would ever have made. In traditional computer programming the aim is to anticipate all possible eventualities and a surprise means that something needs to be fixed. With deep learning, unpredictability and surprises may indicate that the program has found a better way of doing something than its human creators had ever imagined. In the coming years, AlphaGo will continue to learn and to improve, surprising and teaching humans new moves and strategies.
 
 Other Al programs, also based on deep leaming and unpredictability, could be designed to overtake human abilities in highly complex tasks: diagnosing illness, managing power grids, protecting against cyber threat. All of this has enormous implications for the future development of Al and our ability to control it. 
+
+<br>
+
+### Why s GO described as the 'Holy Grail' (Santo Graal) of computer games?
+
+{{< youtube "https://www.youtube.com/watch?v=SUbqykXVx0A" >}}
