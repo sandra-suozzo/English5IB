@@ -20,4 +20,4 @@ Other Al programs, also based on deep leaming and unpredictability, could be des
 
 ### Why s GO described as the 'Holy Grail' (Santo Graal) of computer games?
 
-{{< youtube "https://www.youtube.com/watch?v=SUbqykXVx0A" >}}
+{{< youtube "https://www.youtube.com/embed/SUbqykXVx0A" >}}
