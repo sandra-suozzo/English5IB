@@ -22,11 +22,11 @@ Artificial Intelligence (AI) involves using computers to do things that traditio
 
 2 Programming a computer to use general language. 
 
-3 Arranging hy pothetical neurons in a manner so that they can form concepts. 
+3 Arranging hypothetical neurons in a manner so that they can form concepts. 
 
-4 Awav to determine and measure problem complexity, 
+4 A way to determine and measure problem complexity. 
 
-5 Sell-improvement. 
+5 Self-improvement. 
 
 6 Abstraction: Defined as the quality of dealing with ideas rather than events. 
 
