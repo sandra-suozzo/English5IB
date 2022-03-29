@@ -1,5 +1,5 @@
 ---
-title: "Alpha GO"
+title: "Alpha Go"
 draft: false
 weight: 1
 ---
