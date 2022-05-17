@@ -12,10 +12,13 @@ A database management system (DB/MS) can store, edit and organise
 - It control who can access and edit the data.
 - It allows data to be shared by many users.
 - It provides user interfaces to work with the data.
-- It automatically creates backups of the datal DEMS offers many significant benefits.
-- security: the data is in a safe central location and different access rights can be given to different people,
-- Efficiency: it avoids data duplication and inconsistency within the data collection; also less storage space is taken up because data is shared.
-- Gustamisation: applications to access data can be customised to suit the needs of individual users.
+- It automatically creates backups of the datal.
+
+DBMS offers many significant benefits.
+
+- **Security**: the data is in a safe central location and different access rights can be given to different people.
+- **Efficiency**: it avoids data duplication and inconsistency within the data collection; also less storage space is taken up because data is shared.
+- **Gustamisation**: applications to access data can be customised to suit the needs of individual users.
 
 An important feature of a DBMS is separating applications from the data.
 When people use the applications they call DUMs on the data they need to work on.

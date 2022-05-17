@@ -8,7 +8,7 @@ weight: 1
 
 A database is a way of storing large quantities of information so that, using a computer, it can be
 
-1. searched: to find specific data;
+1. searched: to find specific data.
 2. sorted (i.e, organised in different ways): to compare data and create reports.
 
 Databases have become essential in many different areas of modern life from government and business to science and education. Tax authorities, for example, use databases to keep records of taxpayers and payments, businesses use them to keep customer account and schools use them to maintain student records.
