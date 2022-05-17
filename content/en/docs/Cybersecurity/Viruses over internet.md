@@ -1,5 +1,5 @@
 ---
-title: "Creating and distributing viruses over internet"
+title: "Viruses over internet"
 draft: false
 weight: 1
 ---
