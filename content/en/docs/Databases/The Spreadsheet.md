@@ -14,6 +14,8 @@ A spreadsheet is a program that can process and display data, both numbers and t
 
 A spreadsheet looks like a large table made up of vertical columns (A. B. C, etc.) and horizontal roms (1, 2, 3, etc.). The columns and pows divide the table irito individual cells. Each cell can be identified by its coordinates: the column letter and row number (e. g. B2, D4).
 
+<img width="256" alt="Excel Table" src="./texcel.png">
+
 By clicking on a cell, you can type into it one of three things.
 
 1. **Text data**. This is normally to give a title identifying each column and row in the table.
@@ -22,3 +24,5 @@ By clicking on a cell, you can type into it one of three things.
 cell. The formula is usually typed into the last cell of a column or a row (e g. F2 or B6 in the example above). The formula itself is not visible on the spreadsheet, only the result. The simplest formulas are for addition, subtraction, multiplication and division but most spreadsheet programs offer many other options, such as calculeting an average or a percentage.
 
 The cells are interlinked so that changing the number in one cell will automatically change the results of all the calculations connected to it. This means that a spreadsheet can be instantly updated and it also allows the user to see immediately what would happen in various hypothetical situations (e.g if a tax were increased by 1%,how much more money would the government collect). One spreadsheet can be linked to another one or to a large database, allowing even more complex exchanges of data and calculations.
+
+{{< youtube "https://www.youtube.com/embed/8L1OVkw2ZQ8" >}}
