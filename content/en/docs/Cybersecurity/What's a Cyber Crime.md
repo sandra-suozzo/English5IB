@@ -1,10 +1,10 @@
 ---
-title: "CyberSecurity"
+title: "What's a Cyber Crime"
 draft: false
 weight: 1
 ---
 
-## CyberSecurity
+## What's a Cyber Crime
 
 ### Introduction to cyber crime
 
