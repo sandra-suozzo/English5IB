@@ -20,10 +20,6 @@ DBMS offers many significant benefits.
 - **Efficiency**: it avoids data duplication and inconsistency within the data collection; also less storage space is taken up because data is shared.
 - **Customisation**: applications to access data can be customised to suit the needs of individual users.
 
-An important feature of a DBMS is separating applications from the data.
-When people use the applications they call on the data they need to work on.
-They do not need to use all the data every time they use the database.
-The structure of the database can change but the applications using the data do not need to be changed.
-A database in a DBMS can be viewed by lots of different people with different responsibilities. For example, within a company there are different departments, as well as customers, who each need to see different kinds of data. Each employee in the company will have different levels of access to the database through their own customised application.
+An important feature of a DBMS is separating applications from the data. When people use the applications they call on the data they need to work on. They do not need to use all the data every time they use the database. The structure of the database can change but the applications using the data do not need to be changed. A database in a DBMS can be viewed by lots of different people with different responsibilities. For example, within a company there are different departments, as well as customers, who each need to see different kinds of data. Each employee in the company will have different levels of access to the database through their own customised application.
 
 {{< youtube "https://www.youtube.com/embed/eXiCza050ug" >}}
