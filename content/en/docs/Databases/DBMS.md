@@ -22,3 +22,5 @@ When people use the applications they call DUMs on the data they need to work on
 They do not need to use all the data every time they use the database.
 The structure of the database can change but the applications using the data do not need to be changed.
 A database in a DBMS can be viewed by lots of different people with different responsibilities. For example, within a company there are different departments, as well as customers, who each need to see different kinds of data. Each employee in the company will have different levels of access to the database through their own customised application.
+
+{{< youtube "https://www.youtube.com/watch?v=eXiCza050ug" >}}
