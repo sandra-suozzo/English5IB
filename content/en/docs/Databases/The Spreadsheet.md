@@ -14,10 +14,6 @@ A spreadsheet is a program that can process and display data, both numbers and t
 
 A spreadsheet looks like a large table made up of vertical columns (A. B. C, etc.) and horizontal roms (1, 2, 3, etc.). The columns and pows divide the table irito individual cells. Each cell can be identified by its coordinates: the column letter and row number (e. g. B2, D4).
 
-
-<a title="Alan Turing" href=" https://imgur.com/a/CjvWGyY"><img width="256" alt="Alan Turing" src="
-https://imgur.com/a/CjvWGyY"></a>
-
 By clicking on a cell, you can type into it one of three things.
 
 1. **Text data**. This is normally to give a title identifying each column and row in the table.
