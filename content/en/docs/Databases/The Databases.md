@@ -24,4 +24,4 @@ Fields can consist of different types of data:
 A flat-file database enables a user to view data from only one file at a time. A relational database is a more complex system in which data from many different files are interlinked. In this case a database management system (DBMS) is necessaryto organise and analyse all this data.
 A programming language, called "Structured Query Language" (SQL), enables users to define the sort of data they are looking for. For example, a shopping website uses SQL to translate a customer's input into a request for the DBMS. The DBMS then instructs the computer to retrieve the data that match the definition requested.
 
-{{< youtube "https://www.youtube.com/watch?v=gfT7EGibry0" >}}
+{{< youtube "https://www.youtube.com/embed/gfT7EGibry0" >}}
