@@ -6,9 +6,9 @@ weight: 1
 
 ## Database Management System
 
-A database management system (DBMS) can store, edit and organise
+A database management system (DBMS) can store, edit and organise all the data in a database.
 
-- It stores data in one central location
+- It stores data in one central location.
 - It control who can access and edit the data.
 - It allows data to be shared by many users.
 - It provides user interfaces to work with the data.
