@@ -10,7 +10,7 @@ A spreadsheet is a program that can process and display data, both numbers and t
 
 - Record data so that it can be easily searched.
 - Perform calculations based on the stored data.
-- Rroduce graphs and charts based on the stored data.
+- Produce graphs and charts based on the stored data.
 
 A spreadsheet looks like a large table made up of vertical columns (A. B. C, etc.) and horizontal roms (1, 2, 3, etc.). The columns and pows divide the table irito individual cells. Each cell can be identified by its coordinates: the column letter and row number (e. g. B2, D4).
 
