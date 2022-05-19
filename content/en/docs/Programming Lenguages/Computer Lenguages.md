@@ -12,7 +12,7 @@ Computers understand only machine language, the binary stream of Os and is, whic
 
 ## Machine code translation
 Unless a program is written directly in machine code franslation into machine code will be needed before the program's instructions can be understood by the CPU. A special, language-dependent program is used for this translation. In very simple terms:
-- an assembler translates assembly language into machine code efore execution;
+- an assembler translates assembly language into machine code before execution;
 - a compiler translates a high-level language into machine code before execution;
 - an interpreter translates high-level language into machine code during execution;
 - a disassembler or reverse-compiler performs the translation in the opposite direction. For example machine code translation into the high-level language of C.
