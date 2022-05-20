@@ -1,12 +1,12 @@
 ---
-title: "Computer Lenguages"
+title: "Computer Languages"
 draft: false
 weight: 1
 ---
 
-## Computer Lenguages
+## Computer Languages
 Why do we need computer languages?
-Computers understand only machine language, the binary stream of Os and is, which is difficult for us humans to comprehend. So programming languages were devised so that we can interact with our computers in a more natural way. There are tivo types of programming language: low-level and high-level.
+Computers understand only machine language, the binary stream of Os and 1s, which is difficult for us humans to comprehend. So programming languages were devised so that we can interact with our computers in a more natural way. There are two types of programming language: low-level and high-level.
 - **Low-level languages** are based on commands very similar to those that are understood by the CPU itself. The term 'low-level' language generally refers to either assembly language or the binary language of machine code. A highly specialist programmer would use one of these languages to generate very fast and compact code.
 - **High-level languages** resemble English or mathematical languages, and are used by programmers to create software. They are much casier to understand than low-level languages. High-level languages let the programmer concentrate on the basi ideas of a task. They use easily remembered commands, such as PRINT, OPEN, STOP, GOTO, and INCLUDE, as well as mathematical notations.
 
