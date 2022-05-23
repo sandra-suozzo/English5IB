@@ -1,10 +1,10 @@
 ---
-title: "Programming Lenguages"
+title: "Programming Languages"
 draft: false
 weight: 1
 ---
 
-## Programming Lenguages most in demand
+## Programming Languages most in demand
 Many top jobs in technology now require programming skills and so learning how to code can be a real career boost, but what is the best programming language to learn? The following list, based on databases of job vacancies for computer programmers, shows the programming languages most requested by employers. Choice of languages varies according to employiment sector. Banking systems need to perform complicated functions with minimal latency, requiring a language such as C++. Media - and design- related software - requires dynamic, versatile and functional languages with minimal code, such as Ruby, PHP and JavaScript.
 
 ### Python
