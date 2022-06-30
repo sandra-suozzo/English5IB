@@ -1,5 +1,5 @@
 ---
-title: "Programming Lenguages"
+title: "Programming Languages"
 draft: false
 weight: 1
 collapsible: true
